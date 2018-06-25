@@ -21,6 +21,6 @@
 		<property name="driverClassName" value="com.mysql.jdbc.Driver" />
 		<property name="url" value="jdbc:mysql://deepakinstance.cvgb9csdeqr3.us-east-1.rds.amazonaws.com:3306/deepakdb" />
 		<property name="username" value="deepak" />
-		<property name="password" value="abcd1234" />
+		<property name="password" value="somepass" />
 	</bean>
 </beans>
