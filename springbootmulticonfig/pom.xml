@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.deepakchandwani.sts</groupId>
-	<artifactId>aws</artifactId>
+	<artifactId>springmulticonfig</artifactId>
 	<version>v1</version>
-	<name>demo</name>
+	<name>springmulticonfig</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
